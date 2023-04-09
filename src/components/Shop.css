@@ -9,3 +9,21 @@
    grid-gap: 40px;
    margin: 100px;
 }
+
+.proceed-link{
+    text-decoration: none;
+}
+
+.btn-proceed{
+    width: 90%;
+    display: flex;
+    height: 56px;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px auto;
+    background-color: rgb(250, 113, 59);
+    border-radius: 4px;
+    color: white;
+    
+}
