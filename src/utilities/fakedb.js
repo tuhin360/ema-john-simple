@@ -39,6 +39,6 @@ const deleteShoppingCart = () => {
 export {
     addToDb,
     removeFromDb,
-    getShoppingCart,
+    getShoppingCart, 
     deleteShoppingCart
 }

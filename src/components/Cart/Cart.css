@@ -15,3 +15,16 @@
     font-weight: 400;
     font-size: 21px;
 }
+
+.btn-clear-cart{
+    width: 90%;
+    display: flex;
+    height: 56px;
+    font-size: 21px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px auto;
+    background-color: rgb(223, 92, 40);
+    border-radius: 4px;
+    color: white;
+}
